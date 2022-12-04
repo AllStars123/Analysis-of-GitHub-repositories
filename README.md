@@ -15,11 +15,11 @@ docker run -it --name zeppelin -p 50090:50090 -p 50075:50075 -p 50070:50070 -p 8
 
 ![Image alt](https://github.com/AllStars123/Analysis-of-GitHub-repositories/blob/main/3.png)
 
-![Image alt](https://github.com/AllStars123/Analysis-of-GitHub-repositories/blob/main/4.png)
+![Image alt](https://github.com/AllStars123/Analysis-of-GitHub-repositories/blob/main/4.jpg)
 
-![Image alt](https://github.com/AllStars123/Analysis-of-GitHub-repositories/blob/main/5.png)
+![Image alt](https://github.com/AllStars123/Analysis-of-GitHub-repositories/blob/main/5.jpg)
 
-![Image alt](https://github.com/AllStars123/Analysis-of-GitHub-repositories/blob/main/7.png)
+![Image alt](https://github.com/AllStars123/Analysis-of-GitHub-repositories/blob/main/7.jpg)
 
 
 <h3>Авторы</h3>
